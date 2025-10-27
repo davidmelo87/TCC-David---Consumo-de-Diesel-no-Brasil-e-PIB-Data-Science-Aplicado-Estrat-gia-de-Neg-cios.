@@ -1,17 +1,20 @@
-# TCC-David Consumo de Diesel no Brasil e PIB: Data-Science Aplicado Estrategia de Negocios.
-Pipeline analítico desenvolvido em Python para modelagem e previsão da demanda de Diesel B no Brasil. Utiliza regressão linear Stepwise com defasagens (Lags), validação dos pressupostos estatísticos e seleção automatizada de modelos, garantindo robustez e transparência para análises estratégicas.
+Repositório criado para armazenar os códigos do Trabalho de Conclusão de Curso do MBA de Data Science e Analytics da USP & ESALQ
 
-# 📊 Previsão de Demanda de Diesel B – Brasil
+**Aluno:** David Melo Jeronimo
+**Professor:** Marcos Júnior Ribeiro
 
-Este repositório contém um **pipeline analítico em Python** para modelar e projetar a demanda de Diesel B no Brasil, com foco em decisões estratégicas de pricing, supply e planejamento comercial.
+# Previsão de Demanda de Diesel B – Brasil
 
-## 🧠 Metodologia
+## Metodologia
+- DataLoader & Data Wrangling
+- Análise Descritiva
+- Análise Temporal e Decomposição da Série Temporal
 - Modelo base: **Regressão Linear Stepwise + Lags**
 - Validação dos pressupostos: independência, homocedasticidade, normalidade e autocorrelação
 - Seleção automatizada do melhor modelo com métricas de desempenho
 - Análise de importância dos preditores (variáveis explicativas)
 
-## 🛠️ Principais Tecnologias
+## Principais Tecnologias
 - Python 3.x  
 - Pandas, Numpy  
 - Scikit-learn  
@@ -28,9 +31,6 @@ O código está preparado para ingestão, transformação e modelagem de séries
 ## Licença
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
 
----
-
-**Autor:** David Melo Jeronimo
 **Organização:** USP Esalq - MBA em Data Science & Analytics  
 **Ano:** 2025
 
