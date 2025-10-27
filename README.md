@@ -4,7 +4,7 @@ Repositório criado para armazenar os códigos do Trabalho de Conclusão de Curs
 
 **Professor:** Marcos Júnior Ribeiro
 
-# Previsão de Demanda de Diesel B – Brasil
+# Consumo de Diesel no Brasil e PIB: Data Science Aplicado à Estratégia de Negócios.
 
 ## Metodologia
 - DataLoader & Data Wrangling
