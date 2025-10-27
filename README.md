@@ -18,21 +18,14 @@ Este repositório contém um **pipeline analítico em Python** para modelar e pr
 - Statsmodels  
 - Matplotlib
 
-## 📂 Estrutura do Projeto
-├── Previsão_de_Demanda_de_Diesel-Final.py # Código principal
-├── data/ # Dados (não incluídos)
-├── outputs/ # Resultados e gráficos
-└── README.md
-
-
-## 📈 Resultados
+## Resultados
 O modelo Stepwise + Lags apresentou **melhor equilíbrio entre desempenho e robustez estatística**, permitindo interpretações confiáveis e reprodutíveis.
 
 ## ⚠️ Observações
 Os dados utilizados não estão incluídos neste repositório por questões de confidencialidade.  
 O código está preparado para ingestão, transformação e modelagem de séries temporais de demanda de Diesel B.
 
-## 📜 Licença
+## Licença
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
 
 ---
