@@ -1,6 +1,7 @@
 Repositório criado para armazenar os códigos do Trabalho de Conclusão de Curso do MBA de Data Science e Analytics da USP & ESALQ
 
 **Aluno:** David Melo Jeronimo
+
 **Professor:** Marcos Júnior Ribeiro
 
 # Previsão de Demanda de Diesel B – Brasil
