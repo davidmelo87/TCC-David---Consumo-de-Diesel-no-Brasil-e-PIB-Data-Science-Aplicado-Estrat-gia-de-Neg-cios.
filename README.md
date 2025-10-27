@@ -11,6 +11,15 @@ O presente trabalho analisa a relação entre variáveis macroeconômicas e seto
 
 **Palavras-chave:** consumo de diesel; inferência estatística; regressão múltipla; macroeconomia; previsão de demanda.
 
+# Diesel Consumption in Brazil and GDP: Data Science Applied to Business Strategy.
+
+# Abstract
+
+This study examines the relationship between macroeconomic and sectoral variables and Diesel B consumption in Brazil, emphasizing how indicators such as Gross Domestic Product (GDP), agricultural production, exchange rate, and international oil prices influence national demand. The research applies statistical and econometric techniques, with a focus on multiple regression and diagnostic procedures to validate model assumptions. Official data from ANP, IBGE, the Central Bank of Brazil, and other institutional sources were used, covering the period from 2017 to 2024. The findings show that Diesel B consumption is strongly associated with economic activity and road freight transport, as well as seasonal patterns linked to the agricultural cycle. This study contributes by providing an analytical tool to better understand the dynamics of the fuel market and support strategic decision-making in the energy sector.
+
+**Keywords:** diesel consumption; statistical inference; multiple regression; macroeconomics; demand forecasting.
+
+
 ## Metodologia
 - DataLoader & Data Wrangling
 - Análise Descritiva
